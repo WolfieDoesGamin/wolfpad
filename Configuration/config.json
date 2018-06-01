@@ -2,8 +2,6 @@
     "platform": "discord",
     "shard_count": 1,
     "hosting_url": "https://wpdbot.herokuapp.com/",
-    "httpPort": 8080,
-    "httpsPort": 8443,
     "cert": "",
     "privKey": "",
     "httpsRedirect": false,
